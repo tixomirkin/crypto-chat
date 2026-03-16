@@ -63,7 +63,7 @@ function RouteComponent() {
       </CardContent>
       <CardFooter>
         <div className="flex items-center justify-between w-full">
-          <p>Made by @tixomirkin</p>
+          {/*<p>Made by @tixomirkin</p>*/}
           <ModeToggle/>
         </div>
       </CardFooter>
